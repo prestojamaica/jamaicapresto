@@ -1,5 +1,5 @@
 <html>
-<title> ifCondition </title> 
+<title> jamaica </title> 
 
 <body>
 <?php include("index.php");
